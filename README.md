@@ -79,4 +79,4 @@ This Chaos Engineering experiment helped simulate and monitor system failures in
 ---
 
 > **Authored by:** *Sohel Mohammed*  
-> [GitHub](https://github.com/sohelmohammed09) | DevOps Enthusiast 🚀
+> [GitHub](https://github.com/sohelmohammed0/Chaos-Engineering) | DevOps Enthusiast 🚀
